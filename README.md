@@ -7,4 +7,4 @@ An automaton is a concept of an abstract machine that consists of states (in thi
 
 The automaton receives input (a neighbor's color) and depending on it's transition function (rock-paper-scissors) it makes a transition to another state (color).
 
-[Working example](http://rawgit.com/Shaddyjr/rockPapSciss/blob/solution/index.html)
+[Working example](https://rawgit.com/Shaddyjr/rockPapSciss/solution/index.html)
